@@ -1,7 +1,7 @@
 # Contact Keeper
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication. 
-The API can be found [here](https://github.com/hp4life/contact-keeper-api) with documented endpoints
+The API can be found [here](https://github.com/hp4life/contact-saver-api) with documented endpoints
 
 ## Usage
 
